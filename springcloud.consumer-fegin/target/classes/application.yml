@@ -1,0 +1,5 @@
+spring.application.name: fegin-consumer
+server.port: 4444
+server.hostname: peer1
+eureka.client.serviceUrl.defaultZone: http://${server.hostname}:8761/eureka/
+feign.hystrix.enabled: false

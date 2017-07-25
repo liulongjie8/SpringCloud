@@ -1,0 +1,4 @@
+E:\demo\springcloud.consumer-fegin-hystrix-fallbackFactory\src\main\java\com\springcloud\server\consumer\CosumerApplication.java
+E:\demo\springcloud.consumer-fegin-hystrix-fallbackFactory\src\main\java\com\springcloud\server\consumer\service\ComputerFeignClientFallbackFactory.java
+E:\demo\springcloud.consumer-fegin-hystrix-fallbackFactory\src\main\java\com\springcloud\server\consumer\service\ComputerClient.java
+E:\demo\springcloud.consumer-fegin-hystrix-fallbackFactory\src\main\java\com\springcloud\server\consumer\web\ComputeController.java
